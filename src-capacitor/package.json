@@ -1,0 +1,12 @@
+{
+  "name": "quasar_chat",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.4.2",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  },
+  "author": ""
+}
